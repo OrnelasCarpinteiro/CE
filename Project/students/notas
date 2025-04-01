@@ -1,0 +1,15 @@
+Diferential evolution
+geometric mutation: variance = base + scale*difference. Linear combination of 3 randomly chosen individuals, but three different individuals, not all the same
+binomial crossover: at least one gene changed
+survival selection: compare and choose the best
+
+------------------------------------------------------- COMPARAÇÕES -------------------------------------------------------------------
+3.1
+GA vs ES vs Random pos dois niveis
+GA Mutation mais alta pos dois niveis.
+GA Pop size mais baixa, numero de generations mais alta
+
+Comparar os diferentes niveis???
+
+3.2 
+ES vs DE vs Random
