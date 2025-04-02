@@ -5,11 +5,23 @@ survival selection: compare and choose the best
 
 ------------------------------------------------------- COMPARAÇÕES -------------------------------------------------------------------
 3.1
-GA vs ES vs Random pos dois niveis
-GA Mutation mais alta pos dois niveis.
+GA vs ES vs Random para os dois cenarios. ES é só com mutation, é simple. Como Ga foi melhor, concluimos que crossover é importante, e tambem talvez a maneira de seleção
+GA Mutation mais alta pos dois cenarios.
 GA Pop size mais baixa, numero de generations mais alta
 
-Comparar os diferentes niveis???
+Comparar a morfologia dos robos, o std, o mean e o fitness
+- Std muito baixa no ES, mais alta no GA e ainda mais alta no GA com mutação alta
+- Fitness o melhor foi o GA, para os dois cenarios
 
-3.2 
-ES vs DE vs Random
+Comparar os diferentes cenarios???
+
+DE não é sutable por causa da representação
+
+3.2
+ES (Ou secalhar GA) vs DE vs CMA-EST vs Random
+
+
+--------------------------------------------------------- DUVIDAS --------------------------------------------------------------------
+- Eu nao testei os tres controlers. Quao mau isso é?  Comparar agora no final o GA para os 3 controller
+- comparações de 3.1 são boas o suficiente?           Eu diria que sim                                    
+- testar o que deu melhor no 3.1 (GA) no 3.2?         Sim
