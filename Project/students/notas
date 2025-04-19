@@ -21,6 +21,9 @@ DE não é sutable por causa da representação
 ES (Ou secalhar GA) vs DE vs CMA-EST vs Random
 
 
+Nota: Com o random seed fixa, a evolução é igual entre os dois cenarios. Isto é, os resultados são iguais... talvez porque 
+os dois cenarios apresentados não sejam suficientemente diferentes para que o reward varie.
+
 --------------------------------------------------------- DUVIDAS --------------------------------------------------------------------
 - Eu nao testei os tres controlers. Quao mau isso é?  Comparar agora no final o GA para os 3 controller
 - comparações de 3.1 são boas o suficiente?           Eu diria que sim                                    
