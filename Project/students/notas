@@ -28,3 +28,9 @@ os dois cenarios apresentados não sejam suficientemente diferentes para que o r
 - Eu nao testei os tres controlers. Quao mau isso é?  Comparar agora no final o GA para os 3 controller
 - comparações de 3.1 são boas o suficiente?           Eu diria que sim                                    
 - testar o que deu melhor no 3.1 (GA) no 3.2?         Sim
+
+
+#### Melhorar
+3.1 Tabelas com os melhores resultados (Melhor run). Tratar melhor dos invalidos 
+3.2 Tabelas. PSO, CMA-ES 
+3.3 Tabelas. Como é que é feita a gestão de controlers não darem com as structures
